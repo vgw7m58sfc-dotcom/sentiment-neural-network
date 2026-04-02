@@ -13,13 +13,13 @@ It compares standard activation functions with adapted versions.
   - Sigmoid
   - Adapted ReLU
   - Adapted Sigmoid
-- Evaluation metrics:
+  - metrics:
   - Accuracy
   - Precision
   - Recall
   - F1 Score
 - Early stopping to prevent overfitting
-- Automatic generation of performance plots
+- makes performance plots
 
 ## Installation
 
