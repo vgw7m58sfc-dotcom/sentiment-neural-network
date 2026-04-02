@@ -31,7 +31,7 @@ cd sentiment-neural-network
 
 2. Install packages:
 
-pip install -r packagesrequired.txt
+pip install -r requirements.txt
 
 
 ## Running the code
