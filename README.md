@@ -1,9 +1,9 @@
 # Sentiment Analysis 
 
 ## Overview
-This project builds a neural network to perform sentiment analysis (positive/negative classification) on text data using the IMDB dataset.
+This project builds a neural network to perform sentiment analysis on text data using the IMDB dataset.
 
-It compares standard activation functions (ReLU and Sigmoid) with adapted versions.
+It compares standard activation functions with adapted versions.
 
 ## Features
 - Neural network implemented using TensorFlow/Keras
